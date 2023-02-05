@@ -1,2 +1,2 @@
 # Tableau
-This repository contains tableau data visualisation projects
+This repository contains tableau data visualisation projects (Datasets & Images).
